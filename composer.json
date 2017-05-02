@@ -6,9 +6,6 @@
         "zf2",
         "recaptcha"
     ],
-    "replace": {
-        "zendframework/zendservice-recaptcha":"*"
-    },
     "homepage": "http://packages.zendframework.com/",
     "license": "BSD-3-Clause",
     "autoload": {
@@ -26,11 +23,5 @@
     },
     "suggest": {
         "zendframework/zend-validator": "~2.0, if using ReCaptcha's Mailhide API"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0-dev",
-            "dev-develop": "3.1-dev"
-        }
     }
 }

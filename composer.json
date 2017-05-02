@@ -8,7 +8,7 @@
     ],
     "replace": {
         "zendframework/zendservice-recaptcha":"*"
-    }
+    },
     "homepage": "http://packages.zendframework.com/",
     "license": "BSD-3-Clause",
     "autoload": {
